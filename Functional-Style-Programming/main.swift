@@ -2,7 +2,7 @@
  Author: Curtis Warren
  Date: 06/27/18
  Description:  This program demonstrates the concept of functional programming, by crafting a letter
- using a function which is stateless.  The function does not involve any class datafields in its calculations, thus making the program stateless and functional.
+ using a function which is stateless.  The function does not involve any class datafields in its calculations, this makes the program stateless and functional.
 */
 import Foundation
 
