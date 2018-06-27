@@ -23,7 +23,7 @@ class LetterCreator {
         //  Content/message section.
         letter += "Message:\n\n\(message)\(lineSeparator)"
         //  Sign off section.
-        letter += "Sincerly \(name.capitalized),\(lineSeparator)"
+        letter += "Sincerely \(name.capitalized),\(lineSeparator)"
         //  Contact information section.
         letter += "Please contact me at: \(phoneNumber)"
 
