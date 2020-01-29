@@ -34,7 +34,7 @@ class LetterCreator {
 
 var myLetter = LetterCreator()
 
-var holdMyLetter = myLetter.createLetter(subject:"IT Tutor", name: "Curtis", message: "I am a recent graduate who is interested in teaching others the core concepts of computer science, like functional programming for example.  Functional programming is simply a way of writing your code such that a clean and reliable response is almost guranteed.", phoneNumber: "XXX-XXX-XXXX")
+var holdMyLetter = myLetter.createLetter(subject:"IT Tutor", name: "Curtis", message: "I am a recent graduate who is interested in teaching others the core concepts of computer science, like functional programming for example.  Functional programming is simply a way of writing your code such that a clean and reliable response is almost guaranteed.", phoneNumber: "XXX-XXX-XXXX")
 //  Prints the letter which was created by the call to createLetter().
 print(holdMyLetter)
 
